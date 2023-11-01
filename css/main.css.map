@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACAA,UAAU;EACN,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,qBAAqB;EAClC,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,+EAA+E,CAAC,eAAe;;;AAGxG,UAAU;EACN,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,uBAAuB;EACpC,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,GAAG;EAChB,GAAG,EAAE,qEAAqE,CAAC,eAAe;;;AGb9F,AAAA,CAAC,AAAA,QAAQ;AACT,CAAC,AAAA,OAAO;AACR,CAAC,CAAA;EACG,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,WAAW,EAAE,qBAAqB;CACrC;;ACTD,AAAA,UAAU,CAAA;EACN,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,MAAM;CAClB;;AEJD,IAAI,CAAJ,aAAI",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_varables.scss",
+        "../scss/_function.scss",
+        "../scss/_generals.scss",
+        "../scss/_container.scss",
+        "../scss/block/_block.scss",
+        "../scss/block/_header.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

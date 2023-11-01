@@ -1,0 +1,4 @@
+@import "../function";
+.header__items{
+    @include function.flex(space-between)
+}

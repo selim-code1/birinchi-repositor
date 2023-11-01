@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-family: "Public-Sans-regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../assets/fonts/public-sans-v14-latin_latin-ext_vietnamese-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Ibarra-Real-Nova-bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../assets/fonts/ibarra-real-nova-v27-latin_latin-ext-700.woff2") format("woff2");
+}
+
+*::before,
+*::after,
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Public-Sans-regular";
+}
+
+.container {
+  max-width: 1450px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+/*# sourceMappingURL=main.css.map */
